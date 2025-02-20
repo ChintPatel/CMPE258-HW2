@@ -5,3 +5,6 @@ Datasets:
 Classification: https://www.kaggle.com/datasets/jacksondivakarr/phone-classification-dataset
 Regression: https://www.kaggle.com/datasets/prokshitha/home-value-insights
 Image Classification: https://www.kaggle.com/datasets/ashfakyeafi/glasses-classification-dataset
+
+Youtube Video:
+https://youtu.be/EZBunpNqL2s
